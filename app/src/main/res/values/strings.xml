@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    // log_in_activity resources
+    <string name="btn_login">로그인</string>
+    <string name="btn_sign_in">회원가입</string>
+    <string name="description_id">아이디</string>
+    <string name="description_pw">비밀번호</string>
+    <string name="hint_id">아이디를 입력하세요.</string>
+    <string name="hint_pw">비밀번호를 입력하세요.</string>
+
+
+    // activity_sing_in resources
+    <string name="description_name">이름</string>
+    <string name="hint_name">이름을 입력하세요.</string>
+
+
+    // activity_home resources
+    <string name="tv_id_null">아이디 : ?????</string>
+    <string name="btn_finish">종료</string>
+    <string name="tv_name">이름 : 김냐옹</string>
+    <string name="tv_mbti">MBTI : ????</string>
+    <string name="tv_age">나이 : 7 </string>
+</resources>
